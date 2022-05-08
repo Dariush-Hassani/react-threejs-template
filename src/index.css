@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+#git{
+  position: absolute;
+  color: white;
+  top: 35px;
+  left: 10px;
+}
+#drag{
+  position: absolute;
+  color: white;
+  top: 10px;
+  left: 10px;
+}
+#loading{
+  position: absolute;
+  color: white;
+  top: 10px;
+  left: 10px;
+}
